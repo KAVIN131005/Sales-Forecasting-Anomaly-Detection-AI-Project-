@@ -207,7 +207,7 @@ Based on AI insights, recommended actions:
 - [Smart Narratives](https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-smart-narrative)
 
 ## 📄 License
-[Specify license or internal use only]
+MIT License
 
 ---
 **Version 1.0** | Sales Forecasting & Anomaly Detection Dashboard | Powered by Power BI AI
